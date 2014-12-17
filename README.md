@@ -1,2 +1,0 @@
-ETHEREUM-WALLET
-===============
